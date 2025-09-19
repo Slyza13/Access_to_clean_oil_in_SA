@@ -45,12 +45,7 @@ We focus on **urban-rural disparities**, track trends, and highlight inequality 
 ## 📈 Visuals
 
 ### Line Chart: Urban vs Rural vs Total Access (2000–2022)
-
-
 ### KPI Overview – Urban, Rural, Total Access (2000–2022)
-![KPI Cards](Access_to_clean_oil_in_SA
-/Visuals/CARD.PNG)
-
 ### 2022 Comparison Snapshot – Bar Chart
 
 > Visuals created in **Power BI** to make trends and disparities easy to interpret.
