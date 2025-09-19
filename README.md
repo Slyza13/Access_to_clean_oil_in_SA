@@ -45,14 +45,14 @@ We focus on **urban-rural disparities**, track trends, and highlight inequality 
 ## 📈 Visuals
 
 ### Line Chart: Urban vs Rural vs Total Access (2000–2022)
-![Line Chart](./Visuals/Line Chart.PNG)
-
+![Line Chart]()
+./Visuals/Line Chart.PNG
 ### KPI Overview – Urban, Rural, Total Access (2000–2022)
-![KPI Cards](./Visuals/CARD.PNG)
-
+![KPI Cards]()
+./Visuals/CARD.PNG
 ### 2022 Comparison Snapshot – Bar Chart
-![Bar Chart 2022](./Visuals/Clustered Bar Chart.PNG)
-
+![Bar Chart 2022]()
+./Visuals/Clustered Bar Chart.PNG
 > Visuals created in **Power BI** to make trends and disparities easy to interpret.
 
 ---
