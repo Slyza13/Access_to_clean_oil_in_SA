@@ -19,7 +19,7 @@ We focus on **urban-rural disparities**, track trends, and highlight inequality 
 ---
 
 ## 🗂️ Dataset
-**Source:** [World Bank via Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/world-bank-environment-indicators-for-south-africa)
+**Source:** [World Bank via HDX](https://data.humdata.org/dataset/world-bank-environment-indicators-for-south-africa)
 
 **Indicators Used:**
 - Access to clean fuels and technologies for cooking (% of population)  
@@ -28,10 +28,10 @@ We focus on **urban-rural disparities**, track trends, and highlight inequality 
 
 ---
 
-## 📊 Insights
+## 📊 Key Insights
 
 <details>
-<summary>Click to expand key findings</summary>
+<summary>Click to expand insights</summary>
 
 - Urban access is consistently higher than rural access 🌆🏞️  
 - Rural access shows gradual improvement 📈  
@@ -43,21 +43,17 @@ We focus on **urban-rural disparities**, track trends, and highlight inequality 
 ---
 
 ## 📈 Visuals
-- 📈 **Line chart** – Urban vs Rural vs Total Access (2000–2022)  
-- 🔢 **KPI Cards** – Urban, Rural, Total Access (2000–2022)  
-- 📉 **Bar chart** – 2022 Comparison Snapshot  
-## 📊 Visual Insights
 
-### Urban vs Rural Access (2000–2022)
-![Urban vs Rural Access](./visuals/urban_vs_rural_line.png)
+### Line Chart: Urban vs Rural vs Total Access (2000–2022)
+![Line Chart](./visuals/Line Chart.PNG)
 
-### KPI Overview – 2022
-![KPI Cards](./visuals/kpi_clean_cooking.png)
+### KPI Overview – Urban, Rural, Total Access (2000–2022)
+![KPI Cards](./visuals/CARD.PNG)
 
-### 2022 Snapshot Comparison
-![Bar Chart 2022](./visuals/bar_2022_comparison.png)
+### 2022 Comparison Snapshot – Bar Chart
+![Bar Chart 2022](./visuals/Clustered Bar Chart.PNG)
 
-> Visuals were created in **Power BI** to make trends and disparities easy to interpret.
+> Visuals created in **Power BI** to make trends and disparities easy to interpret.
 
 ---
 
@@ -74,7 +70,9 @@ We focus on **urban-rural disparities**, track trends, and highlight inequality 
 ┃ ┣ 📜 environment_zaf.xlsx – cleaned dataset for analysis  
 ┃ ┗ 📜 Original Dataset – filtered & sorted for clean cooking indicators  
 ┣ 📂 Visuals  
-┃ ┗ All Power BI screenshots and chart exports  
+┃ ┣ 📜 Line Chart.PNG  
+┃ ┣ 📜 Clustered Bar Chart.PNG  
+┃ ┗ 📜 CARD.PNG  
 ┣ 📂 Part1  
 ┃ ┗ Access_to_clean_fuel.pbix – Power BI project file  
 ┗ 📜 README.md – project documentation  
